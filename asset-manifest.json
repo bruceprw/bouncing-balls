@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/repo/static/css/main.88088aef.css",
-    "main.js": "/repo/static/js/main.6d584425.js",
-    "static/js/453.6dd4af31.chunk.js": "/repo/static/js/453.6dd4af31.chunk.js",
-    "index.html": "/repo/index.html",
-    "main.88088aef.css.map": "/repo/static/css/main.88088aef.css.map",
-    "main.6d584425.js.map": "/repo/static/js/main.6d584425.js.map",
-    "453.6dd4af31.chunk.js.map": "/repo/static/js/453.6dd4af31.chunk.js.map"
+    "main.css": "/bouncing-balls/static/css/main.88088aef.css",
+    "main.js": "/bouncing-balls/static/js/main.6f71f9e7.js",
+    "static/js/453.6dd4af31.chunk.js": "/bouncing-balls/static/js/453.6dd4af31.chunk.js",
+    "index.html": "/bouncing-balls/index.html",
+    "main.88088aef.css.map": "/bouncing-balls/static/css/main.88088aef.css.map",
+    "main.6f71f9e7.js.map": "/bouncing-balls/static/js/main.6f71f9e7.js.map",
+    "453.6dd4af31.chunk.js.map": "/bouncing-balls/static/js/453.6dd4af31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.88088aef.css",
-    "static/js/main.6d584425.js"
+    "static/js/main.6f71f9e7.js"
   ]
 }
